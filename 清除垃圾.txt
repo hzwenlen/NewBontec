@@ -1,0 +1,36 @@
+@echo off
+echo 正在清除系统垃圾文件，请稍等......
+del /f /s /q %systemdrive%\*.tmp 
+del /f /s /q %systemdrive%\*._mp 
+del /f /s /q %systemdrive%\*.gid 
+del /f /s /q %systemdrive%\*.chk 
+del /f /s /q %systemdrive%\*.old 
+del /f /s /q %windir%\*.bak 
+del /f /s /q %windir%\temp\*.* 
+del /f /a /q %systemdrive%\*.sqm 
+del /f /s /q %windir%\SoftwareDistribution\Download\*.* 
+del /f /s /q "%userprofile%\cookies\*.*" 
+del /f /s /q "%userprofile%\recent\*.*" 
+del /f /s /q "%userprofile%\local settings\temporary internet files\*.*" 
+del /f /s /q "%userprofile%\local settings\temp\*.*" 
+echo 清除系统垃圾文件完成! 
+echo. & pause 
+
+
+设备名称	Xiaobai-PC
+处理器	Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz   3.40 GHz
+机带 RAM	32.0 GB
+设备 ID	58312FE1-C9C5-41C5-BFFB-2EC46267D8E2
+产品 ID	00330-80000-00000-AA365
+系统类型	64 位操作系统, 基于 x64 的处理器
+笔和触控	没有可用于此显示器的笔或触控输入
+
+上云上阿里云
+巴巴带你扩容
+淘淘长肉肉了
+扫地僧头发多
+戴老师爱较真
+发言人求来的
+寄快递用裹裹
+阿里云购爆款
+飞跃彩虹
